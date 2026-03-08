@@ -149,3 +149,54 @@ When you are working or studying, keep your phone in a separate room. Removing i
 Walk for at least **30 minutes every day**.
 
 If possible, don’t bring your phone. If you want something to listen to, bring a small MP3 player or a portable FM radio instead.
+
+--- 
+
+## *Advanced Advice*
+
+---
+
+## 15. Slow Down Your Internet Speed
+
+Go to your router settings and apply **QoS (Quality of Service)** rules to your device.
+
+Set the speed limits to something like:
+
+- **Download:** 1–2 Mbps  
+- **Upload:** 0.5–1 Mbps  
+
+This is still enough for messaging, basic browsing, and streaming music, but it makes high-bandwidth distractions like video streaming or endless scrolling much less appealing.
+
+---
+
+## 16. Get Yourself an Old Laptop
+
+An old laptop running Linux can significantly reduce your screen time.
+
+Older hardware typically has limited CPU and GPU performance, which makes modern games and heavy entertainment platforms difficult or unpleasant to use. At the same time, it is still more than fast enough for productive tasks such as:
+
+- studying  
+- reading articles or documentation  
+- writing  
+- chatting with friends  
+- basic web browsing  
+
+This naturally pushes you toward **intentional use instead of passive entertainment**.
+
+---
+
+## 17. Eat Without Gadgets
+
+Stop using your phone while eating.
+
+Instead of scrolling through news or social media, simply:
+
+- look outside the window  
+- sit quietly  
+- focus on your meal  
+
+Pay attention to the food, its taste, and the act of eating itself. Small habits like this help retrain your brain to be comfortable without constant stimulation.
+
+
+---
+
