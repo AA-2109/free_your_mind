@@ -8,7 +8,7 @@ Over time, this can damage your ability to focus, reduce your attention span, in
 
 This guide presents simple, practical steps to help you take back control of your attention. The goal is not to eliminate technology completely, but to **use it intentionally instead of letting it use you**.
 
-Small changes - like removing apps, reducing notifications, and replacing doom-scrolling with reading or walking—can significantly improve your ability to concentrate, think clearly, and reclaim time in your daily life.
+Small changes - like removing apps, reducing notifications, and replacing doom-scrolling with reading or walking - can significantly improve your ability to concentrate, think clearly, and reclaim time in your daily life.
 
 ---
 
